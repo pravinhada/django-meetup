@@ -3,3 +3,4 @@ uploads/
 django_course_site/__pycache__
 meetups/__pycache__
 meetups/migrations/__pycache__
+venv
