@@ -13,3 +13,4 @@ Some steps to start in ubuntu based linux
 9. python manage.py migrate
 10. python manage.py createsuperuser
 11. python manage.py runserver
+12. deactivate after done with work
